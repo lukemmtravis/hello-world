@@ -1,2 +1,2 @@
 # hello-world
-My first GitHub repository.
+Luke Travis' first GitHub repository.
